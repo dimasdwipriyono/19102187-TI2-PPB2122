@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lifecycleapp</string>
+    <string name="ini_halaman_dua">Ini Halaman 2</string>
+    <string name="change_page">Pindah Halaman 2</string>
+</resources>
