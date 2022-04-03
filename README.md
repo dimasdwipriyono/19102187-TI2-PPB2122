@@ -4,7 +4,7 @@
 
 <img src="ss/1.png"/>
 
-| 1 | 2|
+| MyProjectApp | LifecycleApp |
 |------|-------|
-|<img src="ss/2.png" width="400">|<img src="ss/3.png" width="400">|
+||![2](https://user-images.githubusercontent.com/67831932/161437075-81cfc302-ed37-455b-9e35-e1c4692be22e.png)
 
