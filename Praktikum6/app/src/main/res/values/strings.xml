@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">praktikum6</string>
+    <string name="name">Nama</string>
+    <string name="description">Deskripsi</string>
+    <string name="tampil_list">Tampil List</string>
+    <string name="tampil_grid">Tampil Grid</string>
+    <string name="tampil_card_view">Tampil Card View</string>
+    <string name="todo">todo</string>
+    <string-array name="data_name">
+        <item>Wisata Pagubugan</item>
+        <item>The Village Purwokerto</item>
+        <item>Curug Jenggala</item>
+        <item>Bukit Watumeja</item>
+        <item>Obyek Wisata Baturraden</item>
+        <item>Hutan Pinus Limpakuwus</item>
+        <item>Bukit Tranggulasih</item>
+        <item>Kebun Raya Baturraden</item>
+        <item>Curug Cipendok</item>
+        <item>Bendung Gerak Serayu</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Berada di lereng Gunung Slamet, wisata Pagubugan akan membawa Anda merasakan betapa tenang dan nyamannya berada di tengah persawahan dan bermain air di sungai. Eduwisata yang berada di Desa Melung ini memiliki berbagai spot wisata menarik yang akan memanjakan Anda. Mulai dari trek jogging, outbond, camping ground, sawah pelangi, taman kelinci, berbagai spot foto keren dan juga Grujugan Bengkok.Di Grujugan Bengkok ini Anda bisa mandi sepuasnya dan airnya sangat jernih, lho! Selain itu lintasan grujugan ini juga panjang, melewati persawahan dan tidak dalam, sehingga aman buat si kecil. Selain itu ada juga wisata bercocok tanam bagi anak paud, TK maupun SD yang berkunjung. Dan yang terbaru ada kolam renang di tengah persawahan yang aman untuk anak-anak.</item>
+        <item>Berlokasi tak terlalu jauh dengan pusat kota Purwokerto, The Village hadir dengan gaya unik khas perkampungan Eropa. Bangunan tinggi besar menyerupai kastil dengan dinding bata langsung mencuri perhatian begitu melangkahkan kaki ke sini. Ada beragam aktivitas yang bisa Anda lakukan di sini: naik perahu mengitari kanal buatan di sekitar taman rekreasi, memberi makan aneka binatang (burung, kelinci, sapi, domba), menunggang kuda, foto-foto dengan kostum Belanda, dan masih banyak lagi!</item>
+        <item>Curug Jenggala adalah air terjun yang berlokasi di Ketenger, Baturaden, Banyumas. Air terjun ini memiliki ketinggian 30 meter dari permukaan tanah. Curug ini mempunyai tiga air terjun yang tingginya sejajar, dengan air terjun yang di tengah memiliki arus yang paling deras</item>
+        <item>Salah satu tempat yang populer di kalangan instagrammer adalah Bukit Badar atau yang dikenal juga dengan nama Watu Meja. Bukit ini berada di Desa Tumiyang, Kecamatan Kebasen, Banyumas, sekitar 10 kilometer dari pusat Kota Purwokerto.</item>
+        <item>Baturraden adalah sebuah kecamatan di Kabupaten Banyumas, Provinsi Jawa Tengah, Indonesia. Kecamatan ini berjarak sekitar 7,5 Km dari Kota Purwokerto ke arah utara. Pusat pemerintahannya berada di Desa Rempoah. Kecamatan ini terletak di lereng selatan Gunung Slamet dan merupakan kawasan wisata</item>
+        <item>Hutan Pinus Limpakuwus ini berada di Desa Limpakuwus Kecamatan Sumbang Kabupaten Banyumas. Jalan menuju Hutan Pinus Limpakuwus sudah beraspal halus, hanya saja penuh dengan tanjakan dan tikungan tajam khas pegunungan. Dari kawasan lokawisata Baturraden, pengunjung bisa mengambil jalan ke arah timur. Hutan Pinus Limpakuwus bisa ditemukan setelah Telaga Sunyi.</item>
+        <item>Bukit Tranggulasih berada di Kabupaten Banyumas, Jawa Tengah. Bukit ini menjadi salah satu tempat berlibur yang terkenal di Banyumas. Banyak wisatawan yang menyempatkan untuk datang ke tempat ini sehingga Bukit Tranggulasih tak pernah sepi pengunjung.</item>
+        <item>Kebun Raya Baturaden adalah Kebun Botani yang terdiri dari perkebunan pinus, damar, dan rasamala, serta beberapa jenis rotan sebagai sisipan. Kebun Raya Baturraden telah ditetapkan sebagai kawasan konservasi ex situ untuk flora pegunungan Jawa.besar yang terletak di Kemutug Lor, Baturaden, Banyumas, Indonesia.</item>
+        <item>Curug Cipendok adalah air terjun dengan ketinggian 92 meter yang terletak di lereng Gunung Slamet. Curug Cipendok mempunyai daya tarik tersendiri, karena lingkungan masih betul-betul alami. Kesunyian juga masih sangat terasa, sebab belum banyak pelancong yang datang menikmati keindahan alamnya.</item>
+        <item>Salah satu bendungan terbesar di Indonesia yang terletak di jalur utama Purwokerto-Cilacap, tepatnya di Desa Kebasen, Kecamatan Patikraja. Bendung Gerak Serayu merupakan bendung gerak pertama di Indonesia. Bendungan ini dibangun pada tahun 1993 dan diresmikan pada tahun 1996 oleh Presiden RI Soeharto.</item>
+    </string-array>
+    <string-array name="item_photo">
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2019/09/18-1-by-@miftakhulmukhasin-@hengki_pamungkas-740x294.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2019/09/21-2-by-@The-Village-Purwokerto-740x740.jpg</item>
+        <item>https://travelspromo.com/wp-content/uploads/2019/11/12-Love-Deck-Ilham-Wahyu-Alfian-e1573786242992-640x400.jpg.webp</item>
+        <item>https://1.bp.blogspot.com/-KLtpJl-6Cto/XjgyYw4R8zI/AAAAAAAAFY8/1fXR7hlVdXEZMMqjz2CbIIViJx_rID3JwCLcBGAsYHQ/s1600/bukit-watu-meja-sunset.jpg</item>
+        <item>https://3.bp.blogspot.com/-lFtKQChErSs/TiQHVfxPCxI/AAAAAAAABA0/S6z-l9J544w/s1600/patung%2Bbaturradeb%2B1.jpg</item>
+        <item>https://1.bp.blogspot.com/-93WB-IR6JEw/XWDffuXX-lI/AAAAAAAAC44/u5qsmWMhM_YJ7Y8xBzjVG_iDeRmdy3fewCLcBGAs/s1600/Camping-Hutan-Pinus-Limpakuwus.jpg</item>
+        <item>https://pinhome-blog-assets-public.s3.ap-southeast-1.amazonaws.com/2021/09/Bukit-Tranggulasih-3-630x380-1.jpg</item>
+        <item>https://jadwaltravel.com/wp-content/uploads/2019/07/Tiket-Masuk-Kebun-Raya-Baturaden.jpg</item>
+        <item>https://sikidang.com/wp-content/uploads/Curug-Cipendok.jpg</item>
+        <item>https://wisatajateng.com/wp-content/uploads/2020/08/170_besar.jpg</item>
+    </string-array>
+</resources>
