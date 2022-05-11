@@ -11,6 +11,20 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Praktikum6">
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyC7Xyv2yogvVBSrbLPZArZZ6muk1kyA7L0" />
+
+        <activity
+            android:name=".MapsActivity"
+            android:exported="false"
+            android:label="@string/title_activity_maps" />
+        <activity
+            android:name=".DetailActivity"
+            android:exported="false"
+            android:label="@string/title_activity_detail"
+            android:theme="@style/Theme.Praktikum6.NoActionBar" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

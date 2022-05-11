@@ -17,6 +17,10 @@
         <item>Kebun Raya Baturraden</item>
         <item>Curug Cipendok</item>
         <item>Bendung Gerak Serayu</item>
+        <item>Pantai Menganti</item>
+        <item>Goa Jatijajar</item>
+        <item>Benteng Pendem</item>
+        <item>Obyek wisata Guci</item>
     </string-array>
     <string-array name="data_description">
         <item>Berada di lereng Gunung Slamet, wisata Pagubugan akan membawa Anda merasakan betapa tenang dan nyamannya berada di tengah persawahan dan bermain air di sungai. Eduwisata yang berada di Desa Melung ini memiliki berbagai spot wisata menarik yang akan memanjakan Anda. Mulai dari trek jogging, outbond, camping ground, sawah pelangi, taman kelinci, berbagai spot foto keren dan juga Grujugan Bengkok.Di Grujugan Bengkok ini Anda bisa mandi sepuasnya dan airnya sangat jernih, lho! Selain itu lintasan grujugan ini juga panjang, melewati persawahan dan tidak dalam, sehingga aman buat si kecil. Selain itu ada juga wisata bercocok tanam bagi anak paud, TK maupun SD yang berkunjung. Dan yang terbaru ada kolam renang di tengah persawahan yang aman untuk anak-anak.</item>
@@ -29,6 +33,10 @@
         <item>Kebun Raya Baturaden adalah Kebun Botani yang terdiri dari perkebunan pinus, damar, dan rasamala, serta beberapa jenis rotan sebagai sisipan. Kebun Raya Baturraden telah ditetapkan sebagai kawasan konservasi ex situ untuk flora pegunungan Jawa.besar yang terletak di Kemutug Lor, Baturaden, Banyumas, Indonesia.</item>
         <item>Curug Cipendok adalah air terjun dengan ketinggian 92 meter yang terletak di lereng Gunung Slamet. Curug Cipendok mempunyai daya tarik tersendiri, karena lingkungan masih betul-betul alami. Kesunyian juga masih sangat terasa, sebab belum banyak pelancong yang datang menikmati keindahan alamnya.</item>
         <item>Salah satu bendungan terbesar di Indonesia yang terletak di jalur utama Purwokerto-Cilacap, tepatnya di Desa Kebasen, Kecamatan Patikraja. Bendung Gerak Serayu merupakan bendung gerak pertama di Indonesia. Bendungan ini dibangun pada tahun 1993 dan diresmikan pada tahun 1996 oleh Presiden RI Soeharto.</item>
+        <item>Pantai Menganti merupakan sebuah pantai yang berlokasi di Desa Karangduwur, Kecamatan Ayah, Kabupaten Kebumen, Jawa Tengah. Pantai ini merupakan salah satu pantai terindah di Jawa Tengah. Pasir pantainya yang berwarna putih serta terdapat panorama perbukitan juga tebing karst yang indah. Bentang alam berupa perbukitan memang sedikit menyulitkan untuk mengakses pantai ini. Sebelum mencapai pantai melalui jalan yang berlika-liku, meski demikian pemandangan tetap menakjubkan. Pegunungan karst yang indah berbukit kerucut, dan laut yang sesekali terlihat saat di atas jalan yang merayapi bukit.</item>
+        <item>Gua Jatijajar adalah sebuah situs geologi yang terbentuk dari proses alamiah, yang terletak di Kabupaten Kebumen, Jawa Tengah. Gua yang keseluruhannya terbentuk dari kapur, ini memiliki panjang 250 meter, llebar rata-rata 15 meter, dan tinggi rata-rata 12 meter. Lokasi gua ini berada 50 meter di atas permukaan laut. Gua Jatijajar merupakan salah satu objek pariwisata andalan di Kabupaten Kebumen</item>
+        <item>Benteng Pendem Cilacap (bahasa Belanda: Kustbatterij op de Landtong te Cilacap), adalah benteng peninggalan Belanda di pesisir pantai Teluk Penyu kabupaten Cilacap, Jawa Tengah yang dibangun pada tahun 1861. Bangunan ini merupakan bekas markas pertahanan tentara Hindia Belanda yang dibangun di area seluas 6,5 hektare secara bertahap selama 18 tahun, dari tahun 1861 hingga 1879. Benteng pendem sempat tertutup tanah pesisir pantai dan tidak terurus. Benteng ini kemudian ditemukan dan mulai digali pemerintah Cilacap tahun 1986. Saat ini, pemerintah Kabupaten Cilacap menjadikan benteng ini sebagai tempat wisata sejarah</item>
+        <item>Guci Indah adalah objek wisata yang berada di Desa Guci Kecamatan Bumijawa Kabupaten Tegal. Memiliki luas 210 Ha, terletak di kaki Gunung Slamet bagian utara dengan ketinggian kurang lebih 1.050 meter. Dari Kota Slawi berjarak ± 30 km, sedangkan dari Kota Tegal berjarak tempuh sekitar 40 km ke arah selatan Air yang mengalir dari pancuran-pancuran di objek wisata ini dipercaya bisa menyembuhkan penyakit seperti reumatik, koreng serta penyakit kulit lainnya, khususnya Pemandian Pancuran 13 yang memang memiliki pancuran berjumlah tiga belas buah Ada sekitar 10 air terjun yang terdapat di daerah Guci. Di bagian atas pemandian umum pancuran 13, terdapat air terjun dengan air dingin bernama Air Terjun Jedor. Dinamai begitu karena dulu tempat di sekitar air terjun setinggi 15 meter itu adalah milik seorang Lurah yang bernama Lurah Jedor. Untuk berkeliling di sekitar objek wisata dapat dilakukan dengan menyewa kuda dengan tarif sewa yang relatif murah Fasilitas yang tersedia antara lain penginapan (kelas melati sampai berbintang), wisata hutan (wana wisata), kolam renang air panas, lapangan tennis, lapangan sepak bola, dan bumi perkemahan.</item>
     </string-array>
     <string-array name="item_photo">
         <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2019/09/18-1-by-@miftakhulmukhasin-@hengki_pamungkas-740x294.jpg</item>
@@ -41,5 +49,133 @@
         <item>https://jadwaltravel.com/wp-content/uploads/2019/07/Tiket-Masuk-Kebun-Raya-Baturaden.jpg</item>
         <item>https://sikidang.com/wp-content/uploads/Curug-Cipendok.jpg</item>
         <item>https://wisatajateng.com/wp-content/uploads/2020/08/170_besar.jpg</item>
+        <item>https://genpi.id/wp-content/uploads/2021/09/Pantai-Menganti-Kebumen-Guntur-Hanafi.jpg</item>
+        <item>https://happytour.id/wp-content/uploads/sites/30/2018/07/Paket-Wisata-Purwokerto-Goa-Jatijajar4.jpg</item>
+        <item>https://asset.kompas.com/crops/GquJwpVtMipbPA0PJOR59ouzCSE=/0x0:780x390/750x500/data/photo/2018/12/20/1563278594.jpg</item>
+        <item>https://www.panasbuminews.com/wp-content/uploads/2020/07/guci-1.jpg</item>
     </string-array>
+    <string-array name="data_lat">
+        <item>-7.333797</item>
+        <item>-7.374473</item>
+        <item>-7.309176</item>
+        <item>-7.518587</item>
+        <item>-7.313380</item>
+        <item>-7.306432</item>
+        <item>-7.335503</item>
+        <item>-7.304985</item>
+        <item>-7.337500</item>
+        <item>-7.525978</item>
+        <item>-7.775426</item>
+        <item>-7.668425</item>
+        <item>-7.748500</item>
+        <item>-7.197862</item>
+    </string-array>
+    <string-array name="data_lang">
+        <item>109.206959</item>
+        <item>109.240532</item>
+        <item>109.209123</item>
+        <item>109.214774</item>
+        <item>109.229210</item>
+        <item>109.244458</item>
+        <item>109.201008</item>
+        <item>109.229597</item>
+        <item>109.137241</item>
+        <item>109.201058</item>
+        <item>109.413861</item>
+        <item>109.425807</item>
+        <item>109.018385</item>
+        <item>109.164622</item>
+    </string-array>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">MapsActivity</string>
 </resources>

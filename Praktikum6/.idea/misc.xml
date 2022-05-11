@@ -3,6 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Bisnis/19102187-TI2-PPB2122-main/Praktikum6/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.143" />
+        <entry key="..\:/Bisnis/19102187-TI2-PPB2122-main/Praktikum6/app/src/main/res/drawable/ic_location_24.xml" value="0.143" />
+        <entry key="..\:/Bisnis/19102187-TI2-PPB2122-main/Praktikum6/app/src/main/res/layout/activity_detail.xml" value="0.21" />
+        <entry key="..\:/Bisnis/19102187-TI2-PPB2122-main/Praktikum6/app/src/main/res/layout/activity_main.xml" value="0.10916919959473151" />
+        <entry key="..\:/Bisnis/19102187-TI2-PPB2122-main/Praktikum6/app/src/main/res/layout/activity_maps.xml" value="0.25" />
+        <entry key="..\:/Bisnis/19102187-TI2-PPB2122-main/Praktikum6/app/src/main/res/layout/content_scrolling.xml" value="0.25" />
+        <entry key="..\:/Bisnis/19102187-TI2-PPB2122-main/Praktikum6/app/src/main/res/layout/item_cardview.xml" value="0.25" />
+        <entry key="..\:/Bisnis/19102187-TI2-PPB2122-main/Praktikum6/app/src/main/res/layout/item_list.xml" value="0.25" />
         <entry key="..\:/IT Telkom Purwokerto/Tugas/Semester 6/Pemrograman Perangkat Bergerak/praktikum/Praktikum6/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/IT Telkom Purwokerto/Tugas/Semester 6/Pemrograman Perangkat Bergerak/praktikum/Praktikum6/app/src/main/res/layout/item_cardview.xml" value="0.25" />
         <entry key="..\:/IT Telkom Purwokerto/Tugas/Semester 6/Pemrograman Perangkat Bergerak/praktikum/Praktikum6/app/src/main/res/layout/item_grid.xml" value="0.21" />
