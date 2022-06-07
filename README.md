@@ -13,7 +13,7 @@
 ### praktikum 6
 ![praktikum 6](https://user-images.githubusercontent.com/67831932/164975563-5e90eed3-a7d5-4d8e-8cad-3136a5a44c5f.png)
 
-###praktikum 7
+### praktikum 7
 ![praktikum7](https://user-images.githubusercontent.com/67831932/172283657-287ff03a-293a-47a8-b008-dec1cd6eea56.jpg)
 
 
