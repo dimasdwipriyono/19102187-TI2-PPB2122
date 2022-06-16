@@ -16,5 +16,9 @@
 ### praktikum 7
 ![praktikum7](https://user-images.githubusercontent.com/67831932/172283657-287ff03a-293a-47a8-b008-dec1cd6eea56.jpg)
 
+### praktikum 8
+![Screenshot 2022-06-15 193903](https://user-images.githubusercontent.com/67831932/173975611-9ee52da0-d919-4a6c-9350-405ca19b79bb.png)
+
+
 
 
