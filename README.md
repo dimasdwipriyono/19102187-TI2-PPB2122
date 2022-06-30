@@ -22,4 +22,8 @@
 ### praktikum 9
 ![Screenshot 2022-06-21 201110](https://user-images.githubusercontent.com/67831932/175440555-6087d8f5-937b-4558-a530-135fad2a82ff.png)
 
+### praktikum 9
+![Screenshot_2022-06-30-07-57-50-931_com dimasdwipriyono_19102187 praktikum11](https://user-images.githubusercontent.com/67831932/176570731-bca845ba-66b1-467d-950c-f73e5bf00ca5.jpg)
+
+
 
