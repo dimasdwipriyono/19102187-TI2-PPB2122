@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Praktikum11</string>
+    <string name="title">Judul</string>
+    <string name="description">Dekripsi</string>
+    <string name="category">Kategori</string>
+    <string name="submit">Submit</string>
+    <string name="date">Tanggal</string>
+    <!--    <string name="default_web_client_id" translatable="false">379078014947-ipf6do5ks9pkvs0c487pnru01pu2e1vb.apps.googleusercontent.com</string>-->
+</resources>
