@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">modul14</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_my_quotes">My Quotes</string>
+    <string name="title_class_quotes">Class Quotes</string>
+    <string name="title_global_quotes">Global Quotes</string>
+    <string name="logout">Logout</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="owner">Nama</string>
+    <string name="date">Tanggal</string>
+    <string name="delete">Delete</string>
+    <string name="submit">Submit</string>
+</resources>
